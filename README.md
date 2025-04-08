@@ -1,7 +1,9 @@
 ## Olá, sou a Vitoria!
 
 💻 Desenvolvedora FullStack na IEBT Innovation
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uninter
+
 📚 Atualmente estudando o curso DevSuperior
 
 <div style="display: inline_block"><br>
