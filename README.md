@@ -4,7 +4,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uninter
 
-📚 Atualmente estudando o curso DevSuperior
+📚 Atualmente estudando o curso DevSuperior - Fundamentos de Programação, Orientação a Objetos (trilha com Java e C#) e Front End com ReactJs
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
